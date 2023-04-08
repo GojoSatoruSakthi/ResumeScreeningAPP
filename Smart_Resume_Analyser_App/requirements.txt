@@ -10,13 +10,8 @@ Pillow
 selenium
 pandas
 streamlit_authenticator
-MongoClient
-LAParams
-LTTextBox
-PDFPage
-PDFResourceManager
-PDFPageInterpreter
-TextConverter
+pymongo
+pdfminer3.layout
 io 
 random
 spacy
@@ -25,7 +20,7 @@ yaml
 sklearn
 pyysql
 Image
-st_tags
+streamlit_tags
 Safeloader
 redis
 PdfReader
