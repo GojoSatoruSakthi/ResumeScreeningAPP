@@ -9,9 +9,7 @@ streamlit-tags
 Pillow
 selenium
 pandas
-random
 streamlit_authenticator
-datetime
 ResumeParser
 MongoClient
 LAParams
