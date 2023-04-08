@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    sakthi:
+      email: sakthi372000@gmail.com
+      name: Sakthivel C
+      password: $2b$12$ZtwgUl8L7TvO9yT0A9Q4MOySCFhXRurKTKQwleeLJxWXkkdkJQbem # To be replaced with hashed password
+    senthil:
+      email: senthil372000@gmail.com
+      name: Sam
+      password: $2b$12$7UdNqKDD4uVbUYDM6rSEsOWEsbquO.0EFOaqn919MEH4kWg2zn.7a # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
