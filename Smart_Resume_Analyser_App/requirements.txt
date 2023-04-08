@@ -10,7 +10,6 @@ Pillow
 selenium
 pandas
 streamlit_authenticator
-ResumeParser
 MongoClient
 LAParams
 LTTextBox
