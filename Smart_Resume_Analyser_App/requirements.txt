@@ -9,7 +9,6 @@ streamlit-tags
 Pillow
 selenium
 pandas
-ChromeDriverManager
 base64
 random
 streamlit_authenticator
