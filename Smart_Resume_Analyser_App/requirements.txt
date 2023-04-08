@@ -8,7 +8,6 @@ pymysql
 streamlit-tags
 Pillow
 selenium
-time
 pandas
 ChromeDriveManager
 base64
