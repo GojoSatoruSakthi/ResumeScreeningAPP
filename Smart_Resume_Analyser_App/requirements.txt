@@ -12,22 +12,6 @@ pandas
 streamlit_authenticator
 pymongo
 
-random
-spacy
-nltk
-yaml
-sklearn
-pyysql
-Image
-streamlit_tags
-Safeloader
-redis
-PdfReader
-px
-numpy
-graphviz
-ploty.figure_factory
-
 
 
 
