@@ -17,8 +17,7 @@ from pdfminer3.pdfinterp import PDFPageInterpreter
 from pdfminer3.converter import TextConverter
 import io,random
 import spacy
-import nltk
-from nltk.corpus import stopwords
+
 
 from streamlit_tags import st_tags
 from PIL import Image
