@@ -16,6 +16,7 @@ from pdfminer3.pdfinterp import PDFResourceManager
 from pdfminer3.pdfinterp import PDFPageInterpreter
 from pdfminer3.converter import TextConverter
 import io,random
+stopwords = nltk.corpus.stopwords.words('english')
 import spacy
 
 
