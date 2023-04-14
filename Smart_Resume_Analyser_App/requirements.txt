@@ -11,7 +11,7 @@ selenium
 pandas
 streamlit_authenticator
 pymongo
-io 
+
 random
 spacy
 nltk
