@@ -11,6 +11,5 @@ selenium
 pandas
 streamlit_authenticator
 pymongo
-webdriver
 
 
