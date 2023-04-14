@@ -11,6 +11,6 @@ selenium
 pandas
 streamlit_authenticator
 pymongo
-webdriver_manager.chrome
+webdriver
 
 
