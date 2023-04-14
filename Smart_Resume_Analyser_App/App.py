@@ -18,6 +18,7 @@ from pdfminer3.converter import TextConverter
 import io,random
 import spacy
 import nltk
+nltk.download("stopwords")
 from streamlit_tags import st_tags
 from PIL import Image
 import pymysql
